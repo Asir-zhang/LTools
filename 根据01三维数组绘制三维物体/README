@@ -1,0 +1,1 @@
+首先导入测试数据test,在matlab中调用：DrawCube(points)即可得到结果
